@@ -23,7 +23,7 @@ Set objSignatureObject = objEmailOptions.EmailSignature
 
 Set objSignatureEntries = objSignatureObject.EmailSignatureEntries
 
-objSelection.InlineShapes.AddPicture("\\MTYDC1\MTYShare\logo.jpg")
+objSelection.InlineShapes.AddPicture("\\HQ-DC1.transnetwork.local\HQVault\LogoFirma\logo.jpg")
 objselection.TypeText Chr(11)
 objSelection.Font.Name = "Calibri" 
 objSelection.Font.Size = 11 
